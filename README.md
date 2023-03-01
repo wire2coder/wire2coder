@@ -2,12 +2,11 @@
 
 IT Support Engineer working in broadcasting,\
 I help ensure smooth and uninterrupted operation of computer systems\
-and equipment used for broadcasting purposes.\
+and equipment used for broadcasting purposes.
 
 I make full-stack web applications that are useful for broadcasting operations.\
-As a Computer Science student, \
-I have a solid theoretical background in computer systems and programming, \
-and I am constantly practice the skills by working on real-world projects and leetcode.
+As a Computer Science student, I have a solid theoretical background in computer systems \
+and programming. I am constantly practice the skills by working on real-world projects and leetcode.
 
 
 ## 📚 Computer Languages and Technology Stack
