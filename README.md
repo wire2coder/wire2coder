@@ -1,13 +1,12 @@
 # Hi there, I'm Terry 👋
 
-I'm a [Your Profession/Title] based in Atlanta. I'm passionate about [Your Interests/Hobbies] and enjoy [Your Favorite Activity].
+I am IT Support Engineer in broadcasting, I help ensure smooth and uninterrupted operation of computer systems and equipment used for broadcasting purposes. 
 
-## 📚 About Me
+I make full-stack web applications that are useful for broadcasting operations. As a Computer Science student, I have a solid theoretical background in computer systems and programming, and I am constantly practice the skills by working on real-world projects.
 
-- [Your Fun Fact]
-- [Your Relevant Work/Experience]
-- [Your Education]
-- [Your Skills]
+## 📚 Computer Languages and Tools
+
+https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg
 
 ## 🔭 My Projects
 
