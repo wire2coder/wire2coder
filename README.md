@@ -33,5 +33,5 @@ and programming. I am constantly practice the skills by working on real-world pr
 
 ## 💻 My GitHub Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+[![wire2coder](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
 
