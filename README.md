@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there, I'm Terry 👋
 
-<!--
-**wire2coder/wire2coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a [Your Profession/Title] based in Atlanta. I'm passionate about [Your Interests/Hobbies] and enjoy [Your Favorite Activity].
 
-Here are some ideas to get you started:
+## 📚 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Your Fun Fact]
+- [Your Relevant Work/Experience]
+- [Your Education]
+- [Your Skills]
+
+## 🔭 My Projects
+
+Here are a few projects I've worked on recently:
+
+- [Project 1](link to project)
+- [Project 2](link to project)
+- [Project 3](link to project)
+
+## 📫 How to Reach Me
+
+- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Personal Website](https://www.yourwebsite.com)
+
+## 💻 My GitHub Stats
+
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+
