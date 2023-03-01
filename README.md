@@ -4,10 +4,9 @@ I am IT Support Engineer in broadcasting, I help ensure smooth and uninterrupted
 
 I make full-stack web applications that are useful for broadcasting operations. As a Computer Science student, I have a solid theoretical background in computer systems and programming, and I am constantly practice the skills by working on real-world projects.
 
-## 📚 Computer Languages and Tools
+## 📚 Computer Languages and Technology Stack
 
 <div align="center">
-  <h3>Tech Stack</h3>
   <p>
     <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -25,14 +24,6 @@ I make full-stack web applications that are useful for broadcasting operations. 
     <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </p>
 </div>
-
-
-
-## 📫 Links
-
-- [Email](mailto:youremail@example.com)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Personal Website](https://www.yourwebsite.com)
 
 ## 💻 My GitHub Stats
 
