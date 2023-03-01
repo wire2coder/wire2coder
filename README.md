@@ -6,17 +6,10 @@ I make full-stack web applications that are useful for broadcasting operations. 
 
 ## 📚 Computer Languages and Tools
 
-https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg
+![HTML5 icon](https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg)
 
-## 🔭 My Projects
 
-Here are a few projects I've worked on recently:
-
-- [Project 1](link to project)
-- [Project 2](link to project)
-- [Project 3](link to project)
-
-## 📫 How to Reach Me
+## 📫 Links
 
 - [Email](mailto:youremail@example.com)
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
