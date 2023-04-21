@@ -9,9 +9,9 @@ As a Computer Science student, I have a solid theoretical background in computer
 and programming. I am constantly practice the skills by working on real-world projects and leetcode.
 
 ##
--pri
--wrk
--ksu
+-pri \
+-wrk \
+-ksu \
 
 ## 📚 'Tech Stack'
 
