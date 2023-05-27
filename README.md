@@ -12,7 +12,7 @@ and programming. I am constantly practice the skills by working on real-world pr
 -pri \
 -wrk \
 -ksu \
--uda \ 
+-uda \
 -gat
 
 ## 📚 'Tech Stack'
