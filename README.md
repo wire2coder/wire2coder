@@ -1,6 +1,6 @@
 # Hi there, I'm Terry 👋
 
-IT Support Engineer working in broadcasting,\
+Broadcast IT Engineer\
 I help ensure smooth and uninterrupted operation of computer systems\
 and equipment used for broadcasting purposes.
 
