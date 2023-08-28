@@ -1,12 +1,9 @@
 # Hi there, I'm Terry 👋
 
 Broadcast IT Engineer\
-I help ensure smooth and uninterrupted operation of computer systems\
-and equipment used for broadcasting purposes.
-
-I make full-stack web applications that are useful for broadcasting operations.\
-As a Computer Science student, I have a solid theoretical background in computer systems \
-and programming. I am constantly practice the skills by working on real-world projects and leetcode.
+Help ensure the smooth and uninterrupted operation of computer, network, and broadcasting systems.\
+Build full-stack web applications with strong theoretical background in computer systems and programming\
+and constantly practice these skills by working on real-world projects.
 
 ##
 -pri \
