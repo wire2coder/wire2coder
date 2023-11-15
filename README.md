@@ -1,10 +1,3 @@
-# Hi there, I'm Terry 👋
-
-Broadcast IT Engineer\
-Help ensure the smooth and uninterrupted operation of computer, network, and broadcasting systems.\
-Build full-stack web applications with strong theoretical background in computer systems and programming\
-and constantly practice these skills by working on real-world projects.
-
 ##
 -pri \
 -wrk \
