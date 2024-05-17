@@ -3,7 +3,6 @@ I'm a dev building front-end and back-end applications using JavaScript, Python,
 
 ##
 -pri \
--wrk \
 -ksu \
 -uda \
 -gat
