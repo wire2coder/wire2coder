@@ -24,7 +24,4 @@ I'm a dev building front-end and back-end applications using JavaScript, Python,
 </div>
 
 
-## 💻 My GitHub Stats
-
-[![wire2coder](https://github-readme-stats.vercel.app/api?username=wire2coder)](https://github.com/anuraghazra/github-readme-stats)
 
