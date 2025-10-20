@@ -1,5 +1,5 @@
 ## 🌶️ Bio
-I'm a dev building front-end and back-end applications using JavaScript, Python, and other technologies.
+I'm a dev building front-end and back-end applications using JavaScript, Python, and R.
 
 ##
 -pri \
