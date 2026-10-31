@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-labelledby="t">
+  <title id="t">Build. Analyze. Ship.</title>
+  <defs>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050914"/><stop offset="1" stop-color="#101a3e"/></linearGradient>
+    <filter id="glow" x="-10%" y="-50%" width="120%" height="200%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="110" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="108" rx="17" fill="none" stroke="url(#ink)" stroke-opacity="0.5" stroke-width="2"/>
+  <path d="M20 70 C 80 20, 140 20, 200 70 S 320 120, 380 70 S 500 20, 560 70 S 680 120, 740 70 S 860 20, 920 70 S 1040 120, 1100 70 S 1160 30, 1180 70"
+        fill="none" stroke="url(#ink)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="14 10" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-96" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="62" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" letter-spacing="8" fill="#e0e7ff" filter="url(#glow)">BUILD · ANALYZE · SHIP</text>
+</svg>
